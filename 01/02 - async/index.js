@@ -1,12 +1,12 @@
 /* CHALLENGE 1 */
 
 function sayHowdy() {
-  console.log("Howdy");
+	console.log("Howdy");
 }
 
 function testMe() {
-  setTimeout(sayHowdy, 0);
-  console.log("Partnah");
+	setTimeout(sayHowdy, 0);
+	console.log("Partnah");
 }
 // After thinking it through, uncomment the following line to check your guess!
 // testMe(); // what order should these log out? Howdy or Partnah first?
@@ -14,7 +14,7 @@ function testMe() {
 /* CHALLENGE 2 */
 
 function delayedGreet() {
-  // ADD CODE HERE
+	// ADD CODE HERE
 }
 // Uncomment the following line to check your work!
 // delayedGreet(); // should log (after 3 seconds): welcome
@@ -22,7 +22,7 @@ function delayedGreet() {
 /* CHALLENGE 3 */
 
 function helloGoodbye() {
-  // ADD CODE HERE
+	// ADD CODE HERE
 }
 // Uncomment the following line to check your work!
 // helloGoodbye(); // should log: hello // should also log (after 3 seconds): good bye
@@ -30,7 +30,7 @@ function helloGoodbye() {
 /* CHALLENGE 4 */
 
 function brokenRecord() {
-  // ADD CODE HERE
+	// ADD CODE HERE
 }
 // Uncomment the following line to check your work!
 // brokenRecord(); // should log (every second): hi again
@@ -38,7 +38,7 @@ function brokenRecord() {
 /* CHALLENGE 5 */
 
 function limitedRepeat() {
-  // ADD CODE HERE
+	// ADD CODE HERE
 }
 // Uncomment the following line to check your work!
 // limitedRepeat(); // should log (every second, for 5 seconds): hi for now
@@ -46,7 +46,7 @@ function limitedRepeat() {
 /* CHALLENGE 6 */
 
 function everyXsecsForYsecs() {
-  // ADD CODE HERE
+	// ADD CODE HERE
 }
 // Uncomment the following lines to check your work!
 // function theEnd() {
