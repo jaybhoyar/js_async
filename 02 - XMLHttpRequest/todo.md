@@ -9,4 +9,4 @@ Example: (For inspiration)
 
 Use the folder named `github-user` for creating it.
 
-* Note: You can add any feature that you want.
+-   Note: You can add any feature that you want.
